@@ -1,0 +1,9 @@
+create NPM project .
+create index, css & js files.
+Install Dependencies- Express, nodemon(dev. dep).
+create a express server (server.js).
+do Frontend part.
+Install Socket-io , setup socket-io in server.js & client client.js.
+Client send message logic in client.js.
+Receive Message on server and Broadcast to all clients.
+Receive message on client and display it . scroll
